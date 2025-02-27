@@ -2,7 +2,7 @@
 
 Ссылка на проект  - @RUSConsult_land_bot
 
-[Скриншот 1](https://github.com/ArtemKira/All-Assistant/blob/main/2025-02-27_22-40-05.png?raw=true)
+([Скриншот 1](https://github.com/ArtemKira/All-Assistant/blob/main/2025-02-28_00-06-24.png?raw=true))
 
 ## Описание проекта
 
